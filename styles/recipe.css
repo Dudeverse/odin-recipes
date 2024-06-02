@@ -1,0 +1,28 @@
+h1 {
+    background-color: blueviolet;
+    color: white;
+    font-weight: bolder;
+    font-size: 35px;
+}
+
+h2 {
+    background-color: violet;
+    color: white;
+    font-size: 30px;
+}
+
+li {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+img {
+    height: 350px;
+    width: 400px;
+}
+
+p {
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    font-size: 20px;
+}
